@@ -1,4 +1,4 @@
-# HamburgerIOS
+# HamburgerIOS 🍔
 
 Swift App to Store Your Favourite Recipes. 
 
